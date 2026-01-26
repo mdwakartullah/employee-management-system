@@ -1,0 +1,21 @@
+Database Name: employeeleavedb
+
+Recommended PHP Version 5.6, 7.4
+
+
+Admin Login Details
+
+	Username: admin
+	Password: admin123
+
+	Username: khans78
+	Password: khansaab78
+
+Step to follow:
+	step 1: start XAMPP or Wamp server, start MySQL & Apache module
+	step 2: go to " http://localhost/phpmyadmin "
+	step 3: create database as "employeeleavedb"
+	step 4: import SQL file in your database
+	step 5: go to "http://localhost/Employee Management System-PHP"
+	step 6: login panel will appear, admin details have been provided. 
+	step 6: you can create some of your own employee and you can add/remove some of your own admin
